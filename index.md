@@ -22,10 +22,7 @@ I used data from *iFoods* (the Brazilian DoorDash) and performed a market analys
 ---
 #### [Education Project](https://www.linkedin.com/pulse/whats-up-schools-cynthia-clifford/)
 [<img src="images/WhatsUpWithSchoolscover.png?raw=true"/>](https://www.linkedin.com/pulse/whats-up-schools-cynthia-clifford/)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
+In this case study, I analyzed education data from the State of Massachusetts. I looked at how DEI factors affect school success.
 
 ---
 
