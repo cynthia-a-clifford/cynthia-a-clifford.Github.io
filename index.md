@@ -15,8 +15,8 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/door-dash-market-analysis-cynthia-clifford/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+[<img src="images/DoorDashCoverPic.png?raw=true"/>](https://www.linkedin.com/pulse/door-dash-market-analysis-cynthia-clifford/)
+I used data from *iFoods* (the Brazilian DoorDash) and performed a market analysis offering business insights from customer data. 
 
 
 ---
