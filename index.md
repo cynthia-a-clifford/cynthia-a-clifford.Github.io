@@ -22,7 +22,7 @@ I used data from *iFoods* (the Brazilian DoorDash) and performed a market analys
 
 ---
 #### [Education Project](https://www.linkedin.com/pulse/whats-up-schools-cynthia-clifford/)
-[<img src="images/WhatsUpWithSchoolscover.pdf?raw=true"/>](https://www.linkedin.com/pulse/whats-up-schools-cynthia-clifford/)
+[<img src="images/?raw=true"/>](https://www.linkedin.com/pulse/whats-up-schools-cynthia-clifford/)
 I used Tableau to analyze education data from the State of Massachusetts. I focused on school success and how it is affected by DEI factors.
 
 ---
