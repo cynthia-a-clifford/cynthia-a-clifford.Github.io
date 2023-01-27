@@ -30,8 +30,8 @@ I used Tableau to analyze education data from the State of Massachusetts. I focu
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
+- [Excel Market Analysis](https://www.linkedin.com/pulse/door-dash-market-analysis-cynthia-clifford/)
+- [Education Project](https://www.linkedin.com/pulse/whats-up-schools-cynthia-clifford/)
 - [Project 5 Title](http://example.com/)
 
 ---
