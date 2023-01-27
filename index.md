@@ -1,4 +1,5 @@
-# My Data Portfolio
+# My Data Analytics Portfolio
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
