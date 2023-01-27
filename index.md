@@ -1,5 +1,5 @@
 # My Data Analytics Portfolio
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/LinkedInprofilebanner.png?raw=true"/>
 
 ---
 
