@@ -1,4 +1,4 @@
-# Welcome to My Data Analytics Portfolio
+# Welcome to My Data Portfolio
 
 ---
 
