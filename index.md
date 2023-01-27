@@ -14,7 +14,7 @@ Tolulope is the best
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/door-dash-market-analysis-cynthia-clifford/)
+#### [Excel Market Analysis](https://www.linkedin.com/pulse/door-dash-market-analysis-cynthia-clifford/)
 [<img src="images/DoorDashCoverPic.png?raw=true"/>](https://www.linkedin.com/pulse/door-dash-market-analysis-cynthia-clifford/)
 I used data from *iFoods* (the Brazilian DoorDash) and performed a market analysis offering business insights from customer data. 
 
