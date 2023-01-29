@@ -1,12 +1,12 @@
 title: Cynthia Clifford # your name (or website title) here
 logo: "/images/mypic.png?raw=true/" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Math teacher transitioning to data analytics. <br>
+  Math teacher turned data analyst. <br>
   I love finding patterns in data.   <br>
   I'm a mechanical engineer turned international school math teacher. 
   I've lived in 13 countries and traveled to many more. 
   <br>Next stop: a data analyst role and a return home to the Mad River Valley in Vermont. <br><br>
   <a href="https://www.linkedin.com/in/cynthia-a-clifford/">View My LinkedIn Profile</a> 
   
-theme: jekyll-theme-minimal
+<br>theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
