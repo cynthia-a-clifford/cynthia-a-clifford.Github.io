@@ -5,8 +5,6 @@
 
 ### Learn About My Projects
 
----
-#### COMING SOON - Analysis of IDA/World Bank Loan Data using SQL $$$
 
 
 
@@ -22,6 +20,8 @@ I used data from *iFoods* (the Brazilian DoorDash) and performed a market analys
 I used Tableau to analyze education data from the State of Massachusetts. I focused on school success and how it is affected by DEI factors.
 
 ---
+
+#### COMING SOON - Analysis of IDA/World Bank Loan Data using SQL $$$
 
 ### My Projects
 
