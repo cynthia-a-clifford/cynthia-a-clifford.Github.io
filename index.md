@@ -26,7 +26,7 @@ I used Tableau to analyze education data from the State of Massachusetts. I focu
 ### My Projects
 
 - [Excel Market Analysis](https://www.linkedin.com/pulse/door-dash-market-analysis-cynthia-clifford/)
-- [Education Project](https://www.linkedin.com/pulse/whats-up-schools-cynthia-clifford/)
+- [Education Project with Tableau](https://www.linkedin.com/pulse/whats-up-schools-cynthia-clifford/)
 
 
 ---
