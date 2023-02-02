@@ -13,7 +13,7 @@ I have lived in 12 countries outside of the United States. All but one has been 
 
 For this project, I used data from the International Development Association (IDA), a sector of the World Bank. The data is from [**the World Bank website.**](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx) where there is also a helpful data dictionary. Their credits are public and publicly guaranteed debt extended by the World Bank Group. The IDA provides development credits, grants and guarantees to its recipient member countries to help meet their development needs. 
 
-The data set is massive--- it has 1,130,055 rows and 30 columns and is updated regularly. When I pulled the data on Jan 28, 2023, the dataset had been updated only 10 days prior, on Jan 18, 2023. The data consists of information about public and publicly guaranteed debt extended by the World Bank Group. IDA provides development credits, grants, and guarantees to its recipient member countries to help meet their development needs.
+The data set is massive--- it has 1,130,055 rows and 30 columns and is updated regularly. When I pulled the data on Jan 28, 2023, the dataset had been updated only 10 days prior, on Jan 18, 2023. The data consists of information about public and publicly guaranteed debt extended by the World Bank Group. 
 
 Each row in the data set is a credit or grant.
 
