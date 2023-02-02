@@ -29,6 +29,18 @@ Columns include:
 
 I used [**bit.io**](https://bit.io/dashboard) to upload data and used PostgresSQL to run queries.
 
+# The Project
+The main aim of this project was to practice SQL queries in context. I took on the role of a data analyst hired by the World Bank to look over all their bank loans to provide insight. I narrowed the brief to investigate, compare and contrast, the loan situation for Nigeria and Ghana, two countries I very much enjoy.
+
+The main questions I set out to answer are:
+
+1. Show all transactions from Nigeria and Ghana and the status of their loans.
+2. How many total transactions were made (for all countries), and how many total transactions were made in each of the two countries of interest?
+3. Which country has the most loans (of all countries) and between Nigeria and Ghana?
+4. What is the average service rate charge for loans given?
+5. What were the most expensive projects in Nigeria and Ghana with the highest Original Principle Amount?
+6. Further examine the data to provide any additional insights.
+
 
 
 > “Education is the key to unlocking the world, a passport to freedom.” ― Oprah Winfrey
