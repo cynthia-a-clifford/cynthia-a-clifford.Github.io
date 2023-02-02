@@ -3,7 +3,20 @@
 
 # Who Gets the Money?
 
+## Introduction
+
+I have lived in 12 countries outside of the United States. All but one has been a "developing" country. I am very interested in development, and the role of the World Bank and other NGOs in international development.  To practice SQL, I decided to compare the funding and repayments between Nigeria, where I lived for three years from 2018 to 2020, and Ghana, a nearby West African country I visited several times, which struck me as much more "developed."
+
 I used data from the International Development Association (IDA). Their credits are public and publicly guaranteed debt extended by the World Bank Group. The IDA provides development credits, grants and guarantees to its recipient member countries to help meet their development needs. 
+
+## The Data
+
+The Data
+For this project, I used data from the International Development Association (IDA), a sector of the World Bank. The data is from: https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx where there is also a helpful data dictionary.
+
+The data set is massive--- it has 1,130,055 rows and 30 columns and is updated regularly. When I pulled the data on Jan 28, 2023, the dataset had been updated only 10 days prior, on Jan 18, 2023. The data consists of information about public and publicly guaranteed debt extended by the World Bank Group. IDA provides development credits, grants, and guarantees to its recipient member countries to help meet their development needs.
+
+I used bit.io to upload data and used PostgresSQL to run queries.
 
 
 
