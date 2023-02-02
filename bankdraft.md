@@ -11,12 +11,11 @@ I used data from the International Development Association (IDA). Their credits 
 
 ## The Data
 
-The Data
-For this project, I used data from the International Development Association (IDA), a sector of the World Bank. The data is from: https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx where there is also a helpful data dictionary.
+For this project, I used data from the International Development Association (IDA), a sector of the World Bank. The data is from [**the World Bank website.**](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx) where there is also a helpful data dictionary.
 
 The data set is massive--- it has 1,130,055 rows and 30 columns and is updated regularly. When I pulled the data on Jan 28, 2023, the dataset had been updated only 10 days prior, on Jan 18, 2023. The data consists of information about public and publicly guaranteed debt extended by the World Bank Group. IDA provides development credits, grants, and guarantees to its recipient member countries to help meet their development needs.
 
-I used bit.io to upload data and used PostgresSQL to run queries.
+I used [**bit.io**](https://bit.io/dashboard) to upload data and used PostgresSQL to run queries.
 
 
 
