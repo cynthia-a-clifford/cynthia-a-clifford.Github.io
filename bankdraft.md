@@ -1,5 +1,5 @@
 # IDA/World Bank Loan Analysis using SQL 
-<img src="/images/MA Ed Cover.jpg?raw=true"/>
+<img src="/images/Who Gets the Money.png?raw=true"/>
 
 # Who Gets the Money?
 
