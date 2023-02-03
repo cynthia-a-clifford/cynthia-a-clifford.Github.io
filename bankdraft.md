@@ -47,7 +47,13 @@ The data set was too large for me to download and open in Excel or Sheets, so I 
 <br> I spent some time exploring the results to better understand the fields and their meaning. 
 
 The results look something like this:
-<img src="/images/Screen Shot 2023-02-03 at 7.23.08 PM.png?raw=true"/>
+<img src="/images/Screen Shot 2023-02-03 at 7.26.52 PM.png?raw=true"/>
+
+Now that I had some understanding of what the data actually was and what it represented, I decided to look at Nigeria and Ghana in more detail.
+
+The query below allowed me to find how many credits Nigeria has received and their status.
+<img src="/images/Screen Shot 2023-02-03 at 7.26.52 PM.png?raw=true"/>
+
 
 
 
