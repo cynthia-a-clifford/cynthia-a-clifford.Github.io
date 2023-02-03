@@ -43,6 +43,7 @@ The main questions I set out to answer are:
 
 # The Analysis
 The data set was too large for me to download and open in Excel or Sheets, so I selected all the data in order to get a holistic sense of all the data. I used the SELECT query:
+<img src="/images/Who Gets the Money.png?raw=true"/>
 
 
 
