@@ -41,6 +41,10 @@ The main questions I set out to answer are:
 5. What were the most expensive projects in Nigeria and Ghana with the highest Original Principle Amount?
 6. Further examine the data to provide any additional insights.
 
+# The Analysis
+The data set was too large for me to download and open in Excel or Sheets, so I selected all the data in order to get a holistic sense of all the data. I used the SELECT query:
+
+
 
 
 > “Education is the key to unlocking the world, a passport to freedom.” ― Oprah Winfrey
