@@ -30,7 +30,7 @@ Columns include:
 I used [**bit.io**](https://bit.io/dashboard) to upload data and used PostgresSQL to run queries.
 
 # The Project
-The main aim of this project was to practice SQL queries in context. I took on the role of a data analyst hired by the World Bank to look over all their bank loans to provide insight. I narrowed the brief to investigate, compare and contrast, the loan situation for Nigeria and Ghana, two countries I very much enjoy.
+The main aim of this project was to practice SQL queries in context. I took on the role of a data analyst hired by the World Bank to provide insights by exploring their bank loans. I decided to compare and contrast the loan situation for Nigeria and Ghana, two countries I very much enjoy.
 
 The main questions I set out to answer are:
 
