@@ -53,7 +53,7 @@ Now that I had some understanding of what the data actually was and what it repr
 
 The query below allowed me to find how many credits Nigeria has received and their status.
 <img src="/images/SELECT Nigeria.png?raw=true"/>
-
+<br> The results of this query allowed me to see that Nigeria has had 14,703 credits or loans extended to it, as well as allowing me to see the status of the loan and which ministry or organization did the borrowing.
 
 <img src="/images/SELECT Nigeria.png?raw=true"/>
 
