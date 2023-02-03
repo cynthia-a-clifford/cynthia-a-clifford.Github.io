@@ -52,10 +52,10 @@ The results look something like this:
 Now that I had some understanding of what the data actually was and what it represented, I decided to look at Nigeria and Ghana in more detail.
 
 The query below allowed me to find how many credits Nigeria has received and their status.
-<img src="/images/Screen Shot 2023-02-03 at 7.26.52 PM.png?raw=true"/>
+<img src="/images/SELECT Nigeria.png?raw=true"/>
 
 
-
+<img src="/images/SELECT Nigeria.png?raw=true"/>
 
 
 > “Education is the key to unlocking the world, a passport to freedom.” ― Oprah Winfrey
