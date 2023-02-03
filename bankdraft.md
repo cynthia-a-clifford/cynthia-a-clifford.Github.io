@@ -36,7 +36,7 @@ The main questions I set out to answer are:
 
 1. Show all transactions from Nigeria and Ghana and the status of their loans.
 2. How many total transactions were made (for all countries), and how many total transactions were made in each of the two countries of interest?
-3. Which country has the most loans (of all countries) and between Nigeria and Ghana?
+3. Which country has the most loans of all countries?
 4. What is the average service rate charge for loans given?
 5. What were the most expensive projects in Nigeria and Ghana with the highest Original Principle Amount?
 6. Further examine the data to provide any additional insights.
