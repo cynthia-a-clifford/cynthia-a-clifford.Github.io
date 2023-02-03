@@ -44,6 +44,10 @@ The main questions I set out to answer are:
 # The Analysis
 The data set was too large for me to download and open in Excel or Sheets, so I selected all the data in order to get a holistic sense of all the data. I used the SELECT query: <br>
 <img src="/images/Screen Shot 2023-02-03 at 7.23.08 PM.png?raw=true"/>
+<br> I spent some time exploring the results to better understand the fields and their meaning. 
+
+The results look something like this:
+<img src="/images/Screen Shot 2023-02-03 at 7.23.08 PM.png?raw=true"/>
 
 
 
