@@ -11,7 +11,7 @@ I have lived in 12 countries outside of the United States. All but one has been 
 ## Key Insights
 ## The Data
 
-For this project, I used data from the International Development Association (IDA), a sector of the World Bank. The data is from [**the World Bank website.**](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx) where there is also a helpful data dictionary. Their credits are public and publicly guaranteed debt extended by the World Bank Group. The IDA provides development credits, grants and guarantees to its recipient member countries to help meet their development needs. 
+For this project, I used data from the International Development Association (IDA), a sector of the World Bank. The data is from [**the World Bank website**](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx) where there is also a helpful data dictionary. Their credits are public and publicly guaranteed debt extended by the World Bank Group. The IDA provides development credits, grants and guarantees to its recipient member countries to help meet their development needs. 
 
 The data set is massive--- it has 1,130,055 rows and 30 columns and is updated regularly. When I pulled the data on Jan 28, 2023, the dataset had been updated only 10 days prior, on Jan 18, 2023. The data consists of information about public and publicly guaranteed debt extended by the World Bank Group. 
 
@@ -55,7 +55,8 @@ The query below allowed me to find how many credits Nigeria has received and the
 <img src="/images/SELECT Nigeria.png?raw=true"/>
 <br> The results of this query allowed me to see that Nigeria has had 14,703 credits or loans extended to it, as well as allowing me to see the status of the loan and which ministry or organization did the borrowing.
 
-<img src="/images/SELECT Nigeria.png?raw=true"/>
+<img src="/images/Screen Shot 2023-02-03 at 7.47.56 PM.png?raw=true"/>
+I repeated the query for Ghana and found that Ghana has had 31,354 credits or loans. This is very interesting to me. Nigeria is the most populous nation in Africa with a population of 206,139,589 (2023 estimate from [**Worldometers**](https://www.worldometers.info/population/countries-in-africa-by-population/). This is over 6 times the population of Ghana which only has a population of 31,072,940 but has received more than twice the number of credits and loans from the World Bank. 
 
 
 > “Education is the key to unlocking the world, a passport to freedom.” ― Oprah Winfrey
