@@ -42,8 +42,8 @@ The main questions I set out to answer are:
 6. Further examine the data to provide any additional insights.
 
 # The Analysis
-The data set was too large for me to download and open in Excel or Sheets, so I selected all the data in order to get a holistic sense of all the data. I used the SELECT query:
-<img src="/images/Who Gets the Money.png?raw=true"/>
+The data set was too large for me to download and open in Excel or Sheets, so I selected all the data in order to get a holistic sense of all the data. I used the SELECT query: <br>
+<img src="/images/Screen Shot 2023-02-03 at 7.23.08 PM.png?raw=true"/>
 
 
 
