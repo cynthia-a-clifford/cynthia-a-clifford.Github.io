@@ -94,6 +94,10 @@ The following results show that the average rate is 0.85% (for all single-rate l
 
 <img src="/images/Screen Shot 2023-02-04 at 8.05.00 PM.png?raw=true"/>
 
+<img src="/images/Screen Shot 2023-02-04 at 8.05.00 PM.png?raw=true"/>
+
+<img src="/images/Screen Shot 2023-02-04 at 8.05.00 PM.png?raw=true"/>
+
 
 
 In this project, I used Tableau to analyze and visualize data from another school district in Massachusetts from 2017. The task was to design a dashboard and answer the following for the superintendent: 
