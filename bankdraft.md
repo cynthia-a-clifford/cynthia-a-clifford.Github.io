@@ -78,10 +78,10 @@ I tried another query - one designed to help me look at the types of loans and t
 <img src="/images/Status.png?raw=true"/>
 And the results I got for Ghana and for Nigeria are shown below.
 
-<img src="/images/Screen Shot 2023-02-04 at 1.01.58 PM.png?raw=true"/>
+<img src="/images/Ghana Status.png?raw=true"/>
+<br><br>
 
-
-<img src="/images/Screen Shot 2023-02-04 at 1.01.58 PM.png?raw=true"/>
+<img src="/images/Nigeria Status.png?raw=true"/>
 
 In this project, I used Tableau to analyze and visualize data from another school district in Massachusetts from 2017. The task was to design a dashboard and answer the following for the superintendent: 
 - Which schools are struggling the most? 
