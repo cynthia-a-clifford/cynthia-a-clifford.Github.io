@@ -71,7 +71,7 @@ I used the following query to learn more about how many loans were repaid.<br>
 <img src="/images/Repaid.png?raw=true"/>
 The results were not illuminating. They show that both Ghana and Nigeria have repaid all these loans or that (which is possible) I am not fully understanding each of these fields.
 
-<img src="/images/Who Gets the Money.png?raw=true"/>
+<img src="/images/Screen Shot 2023-02-04 at 1.01.58 PM.png?raw=true"/>
 
 In this project, I used Tableau to analyze and visualize data from another school district in Massachusetts from 2017. The task was to design a dashboard and answer the following for the superintendent: 
 - Which schools are struggling the most? 
