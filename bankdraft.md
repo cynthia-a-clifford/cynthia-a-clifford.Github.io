@@ -67,6 +67,7 @@ From this, I learned that India has received more loans and credits than any oth
 <img src="/images/Loans by Country 2023-02-04 at 12.02.49 PM.png?raw=true"/> <br>
 Of all countries, Ghana ranks 5th in the number of loans and credits it has received, whereas Nigeria only ranks 28th and is ranked behind many other African countries with smaller populations, such as Tanzania, Ghana, Ethiopia, Senegal, Uganda, Kenya, Madagascar, Malawi, Burkina Faso, Mali, Mozambique, Rwanda, Democratic Republic of Congo, Niger, Benin, Zambia, and Guinea.<br>
 This insight led me to wonder what the size and status of the loans was. Perhaps Nigeria had fewer but larger loans and credits? Or perhaps Nigeria has not been reliable about repayments?
+I used the following query to learn more about how many loans were repaid.<br>
 
 
 
