@@ -27,7 +27,7 @@ Columns include:
 - Credit Status
 - Canceled, disbursed, and undisbursed amounts
 
-I used [**bit.io**](https://bit.io/dashboard) to upload data and used PostgresSQL to run queries.
+I used [**bit.io**](https://bit.io/dashboard) to upload data and used PostgreSQL to run queries.
 
 # The Project
 The main aim of this project was to practice SQL queries in context. I took on the role of a data analyst hired by the World Bank to provide insights by exploring their bank loans. I decided to compare and contrast the loan situation for Nigeria and Ghana, two countries I very much enjoy.
@@ -87,7 +87,10 @@ As we can see, there is a substantial difference in the loan and credit landscap
 <br><br>
 From this analysis, I began to wonder about the size of the loans made to these two countries and also wondered what rate they were being charged and how this compares to the average rate charged to all countries.<br>
 I ran the following query to investigate service charge rates. I added the line specifying that the rate must be greater than 0, because the data dictionary indicated that loans with multiple rates will be returned with a value of 0.<br>
-<img src="/images/carbon (5).png?raw=true"/>
+<img src="/images/carbon (5).png?raw=true"/> <br>
+The following results show that the average rate is 0.85% (for all single-rate loans) and that the minimum loan rate is 0.75% and that the maximum rate is 6.52%.<br>
+
+
 
 <img src="/images/Ghana Status.png?raw=true"/>
 
