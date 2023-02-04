@@ -75,8 +75,8 @@ The results were not illuminating. They show that both Ghana and Nigeria have re
 
 I tried another query - one designed to help me look at the types of loans and the status of each loan. This is the query I ran:
 
-<img src="/images/Screen Shot 2023-02-04 at 1.01.58 PM.png?raw=true"/>
-
+<img src="/images/Status.png?raw=true"/>
+And the results I got for Ghana and for Nigeria are shown below.
 
 <img src="/images/Screen Shot 2023-02-04 at 1.01.58 PM.png?raw=true"/>
 
