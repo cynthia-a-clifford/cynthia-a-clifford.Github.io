@@ -65,11 +65,10 @@ I wanted to see how the number of credits Nigeria and Ghana have received compar
 From this, I learned that India has received more loans and credits than any other country with 59,219. The first few rows of the results returned are shown below:
 
 <img src="/images/Loans by Country 2023-02-04 at 12.02.49 PM.png?raw=true"/>
-Of all countries, Ghana ranks 5th in the number of loans and credits it has received, whereas Nigeria only ranks 28th and is ranked behind many other African countries with smaller populations, such as Tanzania, Ghana, Ethiopia, Senegal, Uganda, Kenya, Madagascar, Malawi, Burkina Faso, Mali, Mozambique, Rwanda, Democratic Republic of Congo, Niger, Benin, Zambia, and Guinea.
+Of all countries, Ghana ranks 5th in the number of loans and credits it has received, whereas Nigeria only ranks 28th and is ranked behind many other African countries with smaller populations, such as Tanzania, Ghana, Ethiopia, Senegal, Uganda, Kenya, Madagascar, Malawi, Burkina Faso, Mali, Mozambique, Rwanda, Democratic Republic of Congo, Niger, Benin, Zambia, and Guinea.<br>
+This insight led me to wonder what the size and status of the loans was. Perhaps Nigeria had fewer but larger loans and credits? Or perhaps Nigeria has not been reliable about repayments?
 
-> “Education is the key to unlocking the world, a passport to freedom.” ― Oprah Winfrey
 
-My 10-year high school reunion was in 2022. It's unbelievable to me that it's been so long, and I've been reflecting on my public school experience. I was very lucky to attend good schools throughout my life, and had a lot of priviledge in my educational experience. In a school district as large as JCPS in Louisville, KY, it can be difficult to understand differences in data across schools and understand what it means. 
 
 In this project, I used Tableau to analyze and visualize data from another school district in Massachusetts from 2017. The task was to design a dashboard and answer the following for the superintendent: 
 - Which schools are struggling the most? 
