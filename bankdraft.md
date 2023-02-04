@@ -68,8 +68,9 @@ From this, I learned that India has received more loans and credits than any oth
 Of all countries, Ghana ranks 5th in the number of loans and credits it has received, whereas Nigeria only ranks 28th and is ranked behind many other African countries with smaller populations, such as Tanzania, Ghana, Ethiopia, Senegal, Uganda, Kenya, Madagascar, Malawi, Burkina Faso, Mali, Mozambique, Rwanda, Democratic Republic of Congo, Niger, Benin, Zambia, and Guinea.<br>
 This insight led me to wonder what the size and status of the loans was. Perhaps Nigeria had fewer but larger loans and credits? Or perhaps Nigeria has not been reliable about repayments?
 I used the following query to learn more about how many loans were repaid.<br>
+<img src="/images/Who Gets the Money.png?raw=true"/>
 
-
+<img src="/images/Who Gets the Money.png?raw=true"/>
 
 In this project, I used Tableau to analyze and visualize data from another school district in Massachusetts from 2017. The task was to design a dashboard and answer the following for the superintendent: 
 - Which schools are struggling the most? 
