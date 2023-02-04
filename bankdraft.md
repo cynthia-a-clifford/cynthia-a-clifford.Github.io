@@ -95,10 +95,11 @@ The following results show that the average rate is 0.85% (for all single-rate l
 <img src="/images/Screen Shot 2023-02-04 at 8.05.00 PM.png?raw=true"/>
 I wanted to see how the rates offered to Nigeria and Ghana compared to each other and to the average of all countries so I ran the following query:<br>
 
-<img src="/images/Screen Shot 2023-02-04 at 8.05.00 PM.png?raw=true"/>
+<img src="/images/carbon (6).png?raw=true"/>
 <br> The results of the query are shown below:
-<img src="/images/Screen Shot 2023-02-04 at 8.05.00 PM.png?raw=true"/>
-
+<img src="/images/Service Charge Rates.png?raw=true"/>
+<br>
+Ghana is receiving an average rate that is slightly below the average for all countries of 0.85%, whereas Nigeria is paying more than the average rate offered to countries. Depending on the size of the loans and their duration, this difference in rates could be significant.  Both countries are poor, with purchasing power parity of about $6000 per year, according to (https://www.theglobaleconomy.com/rankings/gdp_per_capita_ppp/Africa/).
 
 
 In this project, I used Tableau to analyze and visualize data from another school district in Massachusetts from 2017. The task was to design a dashboard and answer the following for the superintendent: 
