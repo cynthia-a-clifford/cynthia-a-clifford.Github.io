@@ -37,9 +37,10 @@ The main questions I set out to answer are:
 1. Show all transactions from Nigeria and Ghana and the status of their loans.
 2. How many total transactions were made (for all countries), and how many total transactions were made in each of the two countries of interest?
 3. Which country has the most loans of all countries?
-4. What is the average service rate charge for loans given?
-5. What were the most expensive projects in Nigeria and Ghana with the highest Original Principle Amount?
-6. Examine the data to provide any additional insights.
+4. What is the maximum amount owed to the IDA and how do Nigeria and Ghana compare to these amounts?
+5. What is the average service rate charge for loans given?
+6. What were the most expensive projects in Nigeria and Ghana with the highest Original Principle Amount?
+7. Examine the data to provide any additional insights.
 
 # The Analysis
 The data set was too large for me to download and open in Excel or Sheets, so I selected all the data in order to get a holistic sense of all the data. I used the SELECT query: <br>
@@ -63,7 +64,7 @@ I wanted to see how the number of credits Nigeria and Ghana have received compar
 
 From this, I learned that India has received more loans and credits than any other country with 59,219. The first few rows of the results returned are shown below:
 
-<img src="/images/Screen Shot 2023-02-03 at 7.26.52 PM.png?raw=true"/>
+<img src="/images/Loans by Country 2023-02-04 at 12.02.49 PM.png?raw=true"/>
 Of all countries, Ghana ranks 5th in the number of loans and credits it has received, whereas Nigeria only ranks 28th and is ranked behind many other African countries with smaller populations, such as Tanzania, Ghana, Ethiopia, Senegal, Uganda, Kenya, Madagascar, Malawi, Burkina Faso, Mali, Mozambique, Rwanda, Democratic Republic of Congo, Niger, Benin, Zambia, and Guinea.
 
 > “Education is the key to unlocking the world, a passport to freedom.” ― Oprah Winfrey
