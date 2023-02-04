@@ -84,7 +84,7 @@ And the results I got for Ghana and for Nigeria are shown below.
 <img src="/images/Nigeria Status.png?raw=true"/>
 <br>
 As we can see, there is a substantial difference in the loan and credit landscape between Ghana and Nigeria. Some of Ghana's loans are still active and have been approved or are in the dispersing stage. But Ghana has also paid off over 17,000 loans (about 57% of the total number of loans) and is currently repaying over 4000 more. Nigeria, on the other hand, has repaid only 440 of its 13,000 loans and is currently repaying around 5000 loans. Ghana, from the perspective of the IDA, is an excellent credit risk due to its strong track record of repaying loans.  Nigeria, on the other hand, does not have as long a credit history and very few of its loans have been fully dispersed, and not as many are in the repayment stage. 
-<br>
+<br><br>
 From this analysis, I began to wonder about the size of the loans made to these two countries and also wondered what rate they were being charged and how this compares to the average rate charged to all countries.
 
 In this project, I used Tableau to analyze and visualize data from another school district in Massachusetts from 2017. The task was to design a dashboard and answer the following for the superintendent: 
