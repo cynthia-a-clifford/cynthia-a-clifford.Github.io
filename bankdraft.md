@@ -87,7 +87,7 @@ As we can see, there is a substantial difference in the loan and credit landscap
 <br><br>
 From this analysis, I began to wonder about the size of the loans made to these two countries and also wondered what rate they were being charged and how this compares to the average rate charged to all countries.<br>
 I ran the following query to investigate service charge rates. I added the line specifying that the rate must be greater than 0, because the data dictionary indicated that loans with multiple rates will be returned with a value of 0.<br>
-<img src="/images/Ghana Status.png?raw=true"/>
+<img src="/images/carbon (5).png?raw=true"/>
 
 <img src="/images/Ghana Status.png?raw=true"/>
 
