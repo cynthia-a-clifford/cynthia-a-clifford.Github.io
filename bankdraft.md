@@ -43,7 +43,7 @@ The main questions I set out to answer are:
 7. Examine the data to provide any additional insights.
 
 # The Analysis
-The data set was too large for me to download and open in Excel or Sheets, so I selected all the data in order to get a holistic sense of all the data. I used the SELECT query: <br>
+The data set was too large for me to download and open in Excel or Sheets, so I selected all the data in order to get a holistic sense of all the data. I used the SELECT query: <br><br>
 <img src="/images/Screen Shot 2023-02-03 at 7.23.08 PM.png?raw=true"/>
 <br> I spent some time exploring the results to better understand the fields and their meaning. 
 
@@ -52,19 +52,19 @@ The results look something like this:
 
 Now that I had some understanding of what the data actually was and what it represented, I decided to look at Nigeria and Ghana in more detail.
 
-The query below allowed me to find how many credits Nigeria has received and their status.
+The query below allowed me to find how many credits Nigeria has received and their status.<br>
 <img src="/images/SELECT Nigeria.png?raw=true"/>
 <br> The results of this query allowed me to see that Nigeria has had 14,703 credits or loans extended to it, as well as allowing me to see the status of the loan and which ministry or organization did the borrowing.
 
 <img src="/images/Screen Shot 2023-02-03 at 7.47.56 PM.png?raw=true"/>
 I repeated the query for Ghana and found that Ghana has had 31,354 credits or loans. This is very interesting to me. Nigeria is the most populous nation in Africa with a population of 206,139,589 (2023 estimate from Worldometers). This is over 6 times the population of Ghana which only has a population of 31,072,940 but has received more than twice the number of credits and loans from the World Bank. 
 
-I wanted to see how the number of credits Nigeria and Ghana have received compared to other countries so I ran the following query:
+I wanted to see how the number of credits Nigeria and Ghana have received compared to other countries so I ran the following query:<br><br>
 <img src="/images/count.png?raw=true"/>
 
 From this, I learned that India has received more loans and credits than any other country with 59,219. The first few rows of the results returned are shown below:
 
-<img src="/images/Loans by Country 2023-02-04 at 12.02.49 PM.png?raw=true"/>
+<img src="/images/Loans by Country 2023-02-04 at 12.02.49 PM.png?raw=true"/> <br>
 Of all countries, Ghana ranks 5th in the number of loans and credits it has received, whereas Nigeria only ranks 28th and is ranked behind many other African countries with smaller populations, such as Tanzania, Ghana, Ethiopia, Senegal, Uganda, Kenya, Madagascar, Malawi, Burkina Faso, Mali, Mozambique, Rwanda, Democratic Republic of Congo, Niger, Benin, Zambia, and Guinea.<br>
 This insight led me to wonder what the size and status of the loans was. Perhaps Nigeria had fewer but larger loans and credits? Or perhaps Nigeria has not been reliable about repayments?
 
