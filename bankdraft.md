@@ -60,7 +60,7 @@ The query below allowed me to find how many credits Nigeria has received and the
 I repeated the query for Ghana and found that Ghana has had 31,354 credits or loans. This is very interesting to me. Nigeria is the most populous nation in Africa with a population of 206,139,589 (2023 estimate from Worldometers). This is over 6 times the population of Ghana which only has a population of 31,072,940 but has received more than twice the number of credits and loans from the World Bank. 
 
 I wanted to see how the number of credits Nigeria and Ghana have received compared to other countries so I ran the following query:<br><br>
-<img src="/images/count.png?raw=true"/>
+<img src="/images/carbon (2).png?raw=true"/>
 
 From this, I learned that India has received more loans and credits than any other country with 59,219. The first few rows of the results returned are shown below:
 
