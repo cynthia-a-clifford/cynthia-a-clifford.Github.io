@@ -93,9 +93,10 @@ The following results show that the average rate is 0.85% (for all single-rate l
 
 
 <img src="/images/Screen Shot 2023-02-04 at 8.05.00 PM.png?raw=true"/>
+I wanted to see how the rates offered to Nigeria and Ghana compared to each other and to the average of all countries so I ran the following query:<br>
 
 <img src="/images/Screen Shot 2023-02-04 at 8.05.00 PM.png?raw=true"/>
-
+<br> The results of the query are shown below:
 <img src="/images/Screen Shot 2023-02-04 at 8.05.00 PM.png?raw=true"/>
 
 
