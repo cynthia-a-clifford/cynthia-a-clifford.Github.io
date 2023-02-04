@@ -73,6 +73,16 @@ The results were not illuminating. They show that both Ghana and Nigeria have re
 
 <img src="/images/Screen Shot 2023-02-04 at 1.01.58 PM.png?raw=true"/>
 
+I tried another query - one designed to help me look at the types of loans and the status of each loan. This is the query I ran:
+
+<img src="/images/Screen Shot 2023-02-04 at 1.01.58 PM.png?raw=true"/>
+
+
+<img src="/images/Screen Shot 2023-02-04 at 1.01.58 PM.png?raw=true"/>
+
+
+<img src="/images/Screen Shot 2023-02-04 at 1.01.58 PM.png?raw=true"/>
+
 In this project, I used Tableau to analyze and visualize data from another school district in Massachusetts from 2017. The task was to design a dashboard and answer the following for the superintendent: 
 - Which schools are struggling the most? 
 - How does class size affect college admission? 
