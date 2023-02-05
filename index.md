@@ -21,12 +21,14 @@ I used Tableau to analyze education data from the State of Massachusetts. I focu
 
 ---
 
-#### COMING SOON - Analysis of IDA/World Bank Loan Data using SQL $$$
+#### [Analysis of IDA/World Bank Loan Data using SQL $$$](https://www.linkedin.com/pulse/who-gets-money-cynthia-clifford)
+[<img src="images/Banking Cover Article.png?raw=true"/>](https://www.linkedin.com/pulse/who-gets-money-cynthia-clifford/)
 
 ### My Projects
 
 - [Excel Market Analysis](https://www.linkedin.com/pulse/door-dash-market-analysis-cynthia-clifford/)
 - [Education Project with Tableau](https://www.linkedin.com/pulse/whats-up-schools-cynthia-clifford/)
+- [Analysis of IDA/World Bank Data using SQL](https://www.linkedin.com/pulse/who-gets-money-cynthia-clifford/)
 
 
 ---
