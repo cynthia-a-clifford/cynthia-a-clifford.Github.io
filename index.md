@@ -26,7 +26,7 @@ I used Tableau to analyze education data from the State of Massachusetts. I focu
 I used data from the World Bank/IDA to practice and develop my SQL skills. I focused on comparing and contrasting the  loan landscape for Nigeria and Ghana. This was a very interesting project for me.
 
 #### [Learn About Me](/aboutme.md)
-<img src="images/Scuba pic-me.png?raw=true"/>
+<img src="images/Scuba pic-me.png?raw=true"/>    <img src="images/Pic from Gorilla Trek.png.png?raw=true"/> 
 
 ### My Projects
 
