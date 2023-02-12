@@ -10,6 +10,4 @@ On a personal note, I love scuba diving, hiking, yoga, cooking, hiking, music, s
 
 
 
-### 2. You can add any images you'd like. 
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/me_craftmarket.png?raw=true"/>
