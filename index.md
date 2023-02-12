@@ -25,7 +25,7 @@ I used Tableau to analyze education data from the State of Massachusetts. I focu
 [<img src="images/Banking Cover Article.png?raw=true"/>](https://www.linkedin.com/pulse/who-gets-money-cynthia-clifford/)
 I used data from the World Bank/IDA to practice and develop my SQL skills. I focused on comparing and contrasting the  loan landscape for Nigeria and Ghana. This was a very interesting project for me.
 
-### Learn About Me--coming soon
+### Learn About Me
 
 ### My Projects
 
