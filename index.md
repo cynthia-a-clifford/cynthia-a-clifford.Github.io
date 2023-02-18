@@ -32,6 +32,7 @@ I used data from the World Bank/IDA to practice and develop my SQL skills. I foc
 - [Excel Market Analysis](https://www.linkedin.com/pulse/door-dash-market-analysis-cynthia-clifford/)
 - [Education Project with Tableau](https://www.linkedin.com/pulse/whats-up-schools-cynthia-clifford/)
 - [Analysis of IDA/World Bank Data using SQL](https://www.linkedin.com/pulse/who-gets-money-cynthia-clifford/)
+- [About Me](/aboutme.md)
 
 
 ---
