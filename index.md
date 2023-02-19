@@ -26,7 +26,7 @@ I used **Tableau** to analyze education data from the State of Massachusetts. I 
 I used data from the World Bank/IDA to practice and develop my **SQL** skills. I focused on comparing and contrasting the loan landscape for Nigeria and Ghana. This was a very interesting project for me because I worked in Nigeria for 3 years.
 
 #### [Learn About Me](/aboutme.md)
-<img src="images/AboutMe.png?raw=true"/>    
+[<img src="images/AboutMe.png?raw=true"/>](/aboutme.md)    
 ### My Projects
 
 - [Excel Market Analysis](https://www.linkedin.com/pulse/door-dash-market-analysis-cynthia-clifford/)
