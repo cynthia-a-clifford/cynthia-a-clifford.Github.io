@@ -17,13 +17,13 @@ I used **Excel** and data from *iFoods* (the Brazilian DoorDash) to perform a ma
 ---
 #### [Education Project with Tableau](https://www.linkedin.com/pulse/whats-up-schools-cynthia-clifford/)
 [<img src="images/WhatsUpWithSchoolscover.png?raw=true"/>](https://www.linkedin.com/pulse/whats-up-schools-cynthia-clifford/)
-I used Tableau to analyze education data from the State of Massachusetts. I focused on school success and how it is affected by DEI factors.
+I used **Tableau** to analyze education data from the State of Massachusetts. I focused on school success and how it is affected by DEI factors and created a dashbord on [Tableau Public](https://public.tableau.com/app/profile/cynthia.clifford)
 
 ---
 
 #### [Analysis of IDA/World Bank Loan Data using SQL $$$](https://www.linkedin.com/pulse/who-gets-money-cynthia-clifford)
 [<img src="images/Banking Cover Article.png?raw=true"/>](https://www.linkedin.com/pulse/who-gets-money-cynthia-clifford/)
-I used data from the World Bank/IDA to practice and develop my SQL skills. I focused on comparing and contrasting the  loan landscape for Nigeria and Ghana. This was a very interesting project for me.
+I used data from the World Bank/IDA to practice and develop my **SQL** skills. I focused on comparing and contrasting the loan landscape for Nigeria and Ghana. This was a very interesting project for me because I worked in Nigeria for 3 years.
 
 #### [Learn About Me](/aboutme.md)
 <img src="images/AboutMe.png?raw=true"/>    
