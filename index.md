@@ -11,7 +11,7 @@
 ---
 #### [Excel Market Analysis](https://www.linkedin.com/pulse/door-dash-market-analysis-cynthia-clifford/)
 [<img src="images/DoorDashCoverPic.png?raw=true"/>](https://www.linkedin.com/pulse/door-dash-market-analysis-cynthia-clifford/)
-I used data from *iFoods* (the Brazilian DoorDash) and performed a market analysis offering business insights from customer data. 
+I used **Excel** and data from *iFoods* (the Brazilian DoorDash) to perform a market analysis offering business insights from customer data. 
 
 
 ---
