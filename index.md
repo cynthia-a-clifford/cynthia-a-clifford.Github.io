@@ -1,5 +1,5 @@
 # My Data Analytics Portfolio
-[<img src="images/Revised LinkedInBanner.png?raw=true"/>](https://www.linkedin.com/in/cynthia-a-clifford/)
+[<img src="images/Mint Banner.png?raw=true"/>](https://www.linkedin.com/in/cynthia-a-clifford/)
 
 ---
 
