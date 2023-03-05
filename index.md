@@ -36,6 +36,7 @@ I using SQL to analyze healthcare data. I used some advanced SQL functions like 
 - [Excel Market Analysis](https://www.linkedin.com/pulse/door-dash-market-analysis-cynthia-clifford/)
 - [Education Project with Tableau](https://www.linkedin.com/pulse/whats-up-schools-cynthia-clifford/)
 - [Analysis of IDA/World Bank Data using SQL](https://www.linkedin.com/pulse/who-gets-money-cynthia-clifford/)
+- [Patient Profiles - a Healthcare Analysis using SQL](https://www.linkedin.com/pulse/patient-profiles-healthcare-analysis-cynthia-clifford)
 - [About Me](/aboutme.md)
 
 
