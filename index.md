@@ -39,7 +39,9 @@ I using **SQL** to analyze healthcare data. I used some advanced SQL functions l
 - [Patient Profiles - a Healthcare Analysis using SQL](https://www.linkedin.com/pulse/patient-profiles-healthcare-analysis-cynthia-clifford)
 - [About Me](/aboutme.md)
 
-
+### [<img src="images/doc_icon.png?raw=true"/>](/files/KGW_02_07_2023.pdf) [Resume](/files/KGW_02_07_2023.pdf)     
+### [<img src="images/tableau_icon.png?raw=true"/>](https://public.tableau.com/app/profile/cynthia.clifford) [Tableau](https://public.tableau.com/app/profile/cynthia.clifford)     
+### [<img src="images/linkedin_icon.png?raw=true"/>](https://www.linkedin.com/in/cynthia-a-clifford/) [LinkedIn](https://www.linkedin.com/in/cynthia-a-clifford/)
 ---
 
 
