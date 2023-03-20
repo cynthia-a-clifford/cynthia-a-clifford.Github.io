@@ -30,7 +30,7 @@ I used data from the World Bank/IDA to practice and develop my **SQL** skills. I
 I using **SQL** to analyze healthcare data. I used some advanced SQL functions like CASE, joined tables, and used UNION and CONCAT. This was a challenging project for me but a very interesting one. The data set is massive and I've only scratched the surface. I'd love to go back later and mine for additional insights.
 
 #### [NBA Data Project with Tableau](https://www.linkedin.com/pulse/nba-2021-22-what-year-cynthia-clifford/)
-[<img src="images/WhatsUpWithSchoolscover.png?raw=true"/>](https://www.linkedin.com/pulse/whats-up-schools-cynthia-clifford/)
+[<img src="images/NBA Statistical Analysis.png?raw=true"/>](https://www.linkedin.com/pulse/whats-up-schools-cynthia-clifford/)
 I used **Tableau** to analyze NBA data from the 2021-2022 season. I focused on providing tips to the Boston Celtics in my imagined role as a candidate for a data analyst position. I created a story on [Tableau Public](https://public.tableau.com/app/profile/cynthia.clifford/viz/NBAProject_16792277173640/NBAStory)
 
 #### [Learn About Me](/aboutme.md)
