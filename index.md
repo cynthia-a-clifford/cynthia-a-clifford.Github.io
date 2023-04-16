@@ -29,12 +29,12 @@ I used data from the World Bank/IDA to practice and develop my **SQL** skills. I
 [<img src="images/Hospitals SQL Project.png?raw=true"/>](https://www.linkedin.com/pulse/patient-profiles-healthcare-analysis-cynthia-clifford)
 I using **SQL** to analyze healthcare data. I used some advanced SQL functions like CASE, joined tables, and used UNION and CONCAT. This was a challenging project for me but a very interesting one. The data set is massive and I've only scratched the surface. I'd love to go back later and mine for additional insights.
 
-#### [NBA Data Project with Tableau](https://www.linkedin.com/pulse/mining-data-python-cynthia-clifford)
-[<img src="images/NBA Statistical Analysis.png?raw=true"/>](https://www.linkedin.com/pulse/whats-up-schools-cynthia-clifford/)
+#### [NBA Data Project with Tableau](https://www.linkedin.com/pulse/nba-2021-22-what-year-cynthia-clifford/)
+[<img src="images/NBA Statistical Analysis.png?raw=true"/>](https://www.linkedin.com/pulse/nba-2021-22-what-year-cynthia-clifford/)
 I imagined I was a data analyst for the Boston Celtics and used **Tableau** to analyze data from the 2021-2022 season. I focused on providing insights to the general manager and the coaching staff which might assist the team in making wise decisions during the free agent trading season. I pulished a data story on [Tableau Public](https://public.tableau.com/app/profile/cynthia.clifford/viz/NBAProject_16792277173640/NBAStory).
 
 #### [Mining for Mining Data with Python](https://www.linkedin.com/pulse/mining-data-python-cynthia-clifford)
-[<img src="images/Mining for Mining Data.png?raw=true"/>](https://www.linkedin.com/pulse/whats-up-schools-cynthia-clifford/)
+[<img src="images/Mining for Mining Data.png?raw=true"/>](https://www.linkedin.com/pulse/mining-data-python-cynthia-clifford/)
 I used **Python** to analyze manufacturing data from an iron ore flotation plant. I focused on providing insights about any anomolies in the data to the engineering department. I used [DeepNote](https://deepnote.com/workspace/cynthia-clifford-43842ca6-f16a-445e-bae1-6ba516125055/project/Iron-Flotation-Project-74da3c97-4409-4fab-af08-3b375800bdba/notebook/Notebook%201-c7335143e6954d3ca3de7bd829584b07), a browser based IDE and have linked the code/DeepNote project.
 
 #### [Learn About Me](/aboutme.md)
