@@ -31,10 +31,10 @@ I using **SQL** to analyze healthcare data. I used some advanced SQL functions l
 
 #### [NBA Data Project with Tableau](https://www.linkedin.com/pulse/mining-data-python-cynthia-clifford)
 [<img src="images/NBA Statistical Analysis.png?raw=true"/>](https://www.linkedin.com/pulse/whats-up-schools-cynthia-clifford/)
-I imagined I was a data analyst for the Boston Celtics and used **Tableau** to analyze data from the 2021-2022 season. I focused on providing insights to the general manager and the coaching staff which might assist the team in making wise decisions during the free agent trading season. I pulished the article on [Tableau Public](https://public.tableau.com/app/profile/cynthia.clifford/viz/NBAProject_16792277173640/NBAStory).
+I imagined I was a data analyst for the Boston Celtics and used **Tableau** to analyze data from the 2021-2022 season. I focused on providing insights to the general manager and the coaching staff which might assist the team in making wise decisions during the free agent trading season. I pulished a data story on [Tableau Public](https://public.tableau.com/app/profile/cynthia.clifford/viz/NBAProject_16792277173640/NBAStory).
 
 #### [Mining for Mining Data with Python](https://www.linkedin.com/pulse/mining-data-python-cynthia-clifford)
-[<img src="images/Mining Data Article Banner.png?raw=true"/>](https://www.linkedin.com/pulse/whats-up-schools-cynthia-clifford/)
+[<img src="images/Mining for Mining Data.png?raw=true"/>](https://www.linkedin.com/pulse/whats-up-schools-cynthia-clifford/)
 I used **Python** to analyze manufacturing data from an iron ore flotation plant. I focused on providing insights about any anomolies in the data to the engineering department. I used [DeepNote](https://deepnote.com/workspace/cynthia-clifford-43842ca6-f16a-445e-bae1-6ba516125055/project/Iron-Flotation-Project-74da3c97-4409-4fab-af08-3b375800bdba/notebook/Notebook%201-c7335143e6954d3ca3de7bd829584b07), a browser based IDE.
 
 #### [Learn About Me](/aboutme.md)
