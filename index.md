@@ -30,8 +30,8 @@ I used data from the World Bank/IDA to practice and develop my **SQL** skills. I
 I using **SQL** to analyze healthcare data. I used some advanced SQL functions like CASE, joined tables, and used UNION and CONCAT. This was a challenging project for me but a very interesting one. The data set is massive and I've only scratched the surface. I'd love to go back later and mine for additional insights.
 
 #### [NBA Data Project with Tableau](https://www.linkedin.com/pulse/mining-data-python-cynthia-clifford)
-[<img src="images/Mining Data Article Banner.png?raw=true"/>](https://www.linkedin.com/pulse/whats-up-schools-cynthia-clifford/)
-I imagined I was a data analyst for the Boston Celtics and ussed **Tableau** to analyze data from the 2021-2022 season. I focused on providing insights to the general manager and the coaching staff which might assist the team in making wise decisions during the free agent trading season. I pulished the article on [Tableau Public](https://public.tableau.com/app/profile/cynthia.clifford/viz/NBAProject_16792277173640/NBAStory), a browser based IDE.
+[<img src="images/NBA Statistical Analysis.png?raw=true"/>](https://www.linkedin.com/pulse/whats-up-schools-cynthia-clifford/)
+I imagined I was a data analyst for the Boston Celtics and used **Tableau** to analyze data from the 2021-2022 season. I focused on providing insights to the general manager and the coaching staff which might assist the team in making wise decisions during the free agent trading season. I pulished the article on [Tableau Public](https://public.tableau.com/app/profile/cynthia.clifford/viz/NBAProject_16792277173640/NBAStory).
 
 #### [Mining for Mining Data with Python](https://www.linkedin.com/pulse/mining-data-python-cynthia-clifford)
 [<img src="images/Mining Data Article Banner.png?raw=true"/>](https://www.linkedin.com/pulse/whats-up-schools-cynthia-clifford/)
