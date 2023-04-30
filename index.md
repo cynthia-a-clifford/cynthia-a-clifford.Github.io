@@ -37,6 +37,8 @@ I imagined I was a data analyst for the Boston Celtics and used **Tableau** to a
 [<img src="images/Mining for Mining Data.png?raw=true"/>](https://www.linkedin.com/pulse/mining-data-python-cynthia-clifford/)
 I used **Python** (and pandas and Seaborn and matplotlib libraries) to analyze manufacturing data from an iron ore flotation plant. I focused on providing insights about any anomolies in the data to the engineering department. I used [DeepNote](https://deepnote.com/workspace/cynthia-clifford-43842ca6-f16a-445e-bae1-6ba516125055/project/Iron-Flotation-Project-74da3c97-4409-4fab-af08-3b375800bdba/notebook/Notebook%201-c7335143e6954d3ca3de7bd829584b07), a browser based IDE and have [linked](https://deepnote.com/workspace/cynthia-clifford-43842ca6-f16a-445e-bae1-6ba516125055/project/Iron-Flotation-Project-74da3c97-4409-4fab-af08-3b375800bdba/notebook/Notebook%201-c7335143e6954d3ca3de7bd829584b07) the code/DeepNote project.
 
+#### [Should I Stay or Should I Go? HR Data Analysis with R](https://www.linkedin.com/pulse/should-i-stay-go-cynthia-clifford/)
+
 #### [Learn About Me](/aboutme.md)
 [<img src="images/AboutMe.png?raw=true"/>](/aboutme.md)    
 ### My Projects
@@ -47,6 +49,8 @@ I used **Python** (and pandas and Seaborn and matplotlib libraries) to analyze m
 - [Patient Profiles - a Healthcare Analysis using SQL](https://www.linkedin.com/pulse/patient-profiles-healthcare-analysis-cynthia-clifford)
 - [NBA Data Project with Tableau](https://www.linkedin.com/pulse/nba-2021-22-what-year-cynthia-clifford/)
 - [Mining for Mining Data with Python](https://www.linkedin.com/pulse/mining-data-python-cynthia-clifford)
+- [Should I Stay or Should I Go? HR Data Analysis with R](https://www.linkedin.com/pulse/should-i-stay-go-cynthia-clifford/)
+- 
 - [About Me](/aboutme.md)
 
 ### [<img src="images/doc_icon.png?raw=true"/>](/files/KGW_02_07_2023.pdf) [Resume](/files/CynthiaClifford-Data_Analyst.pdf)     
