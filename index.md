@@ -38,7 +38,7 @@ I imagined I was a data analyst for the Boston Celtics and used **Tableau** to a
 I used **Python** (and pandas and Seaborn and matplotlib libraries) to analyze manufacturing data from an iron ore flotation plant. I focused on providing insights about any anomolies in the data to the engineering department. I used [DeepNote](https://deepnote.com/workspace/cynthia-clifford-43842ca6-f16a-445e-bae1-6ba516125055/project/Iron-Flotation-Project-74da3c97-4409-4fab-af08-3b375800bdba/notebook/Notebook%201-c7335143e6954d3ca3de7bd829584b07), a browser based IDE and have [linked](https://deepnote.com/workspace/cynthia-clifford-43842ca6-f16a-445e-bae1-6ba516125055/project/Iron-Flotation-Project-74da3c97-4409-4fab-af08-3b375800bdba/notebook/Notebook%201-c7335143e6954d3ca3de7bd829584b07) the code/DeepNote project.
 
 #### [Should I Stay or Should I Go? HR Data Analysis with R](https://www.linkedin.com/pulse/should-i-stay-go-cynthia-clifford/)
-[<img src="images/DoorDashCoverPic.png?raw=true"/>](https://www.linkedin.com/pulse/should-i-stay-go-cynthia-clifford/)
+[<img src="images/Should_I_Stay_or_Should_I_Go.png?raw=true"/>](https://www.linkedin.com/pulse/should-i-stay-go-cynthia-clifford/)
 I used **R** to analyze HR data regarding a recent layoff. I focused on investigating connections to data fields and performing hypotheses tests (t-tests and chi-squared tests) to determine if DEI issues were a factor in the layoffs. I used R and the R Studio platform.
 
 
