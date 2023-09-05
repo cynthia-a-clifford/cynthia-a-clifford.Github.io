@@ -5,11 +5,11 @@ I’ve lived and **worked in 12 countries outside of the US**, demonstrating my 
 I am excited to bring my analytical skills, leadership experience, and education to a data analyst role. I’m a self-motivated life-long learner and will continue my professional development in this field because it is FUN. I am confident that my combination of education and experience makes me a strong candidate, and I am eager to use my skills to help organizations achieve their goals.<br><br>
 On a personal note, I love scuba diving, hiking, yoga, cooking, hiking, music, swimming, and travel.<be>
 
-Hi! 👋🏻 I'm Cynthia Clifford - <br><br>
+Hi! 👋🏻 I'm Cynthia Clifford - <br>
 
-I am a former Mechanical Engineer and a former Math Educator who has transitioned to Data Analytics. I love numbers. My superpowers 💪 are analysis, statistics, and sleep.<br><br>
+I am a former Mechanical Engineer and a former Math Educator who has transitioned to Data Analytics. I love numbers. My superpowers 💪 are analysis, statistics, and sleep.<br>
 
-Feel free to connect 🤝 and say Hi!<br><br>
+Feel free to connect 🤝 and say Hi!<br>
 
 About Me:
 
