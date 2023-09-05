@@ -18,7 +18,7 @@ About Me:
 
 👍🏻 Needed to continue learning with upskilling - started Google’s Data Analytics Career Certificate and then completed the Data Analytics Accelerator Program.
 
-💥 Learned the tools of data analysis: Excel/Sheets, Tableau, R, SQL, and Python, applied them to projects, and built a portfolio. 
+💥 Learned the tools of data analysis: **Excel/Sheets, Tableau, R, SQL, and Python**, applied them to projects, and built a portfolio. 
 
 🤓 The combination of my improving tech skills and my analysis and presentation skills will enable me to make a strong contribution to a company.
 
