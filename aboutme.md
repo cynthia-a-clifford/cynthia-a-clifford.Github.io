@@ -19,8 +19,8 @@ Feel free to connect and say hi! <br><br>
 
 💬 Message me and connect - Let's talk data 📈 , travel 🧳, the best dive site 🤿 or any other great topic.<br><br>
 
-You can find me:
-🌐 https://www.linkedin.com/in/cynthia-a-clifford/
+🌐<a href="https://www.linkedin.com/in/cynthia-a-clifford/">View My LinkedIn Profile</a> 
+
 
 
 
