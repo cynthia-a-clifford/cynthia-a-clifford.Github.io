@@ -56,7 +56,7 @@ I used **R** to analyze HR data regarding a recent layoff. I focused on investig
 - 
 - [About Me](/aboutme.md)
 
-### [<img src="images/doc_icon.png?raw=true"/>](/files/KGW_02_07_2023.pdf) [Resume](/files/Cliffordres-August.pdf)     
+### [<img src="images/doc_icon.png?raw=true"/>](/files/KGW_02_07_2023.pdf) [Resume](/files/Resume_revision_April_24.pdf)     
 ### [<img src="images/tableau_icon.png?raw=true"/>](https://public.tableau.com/app/profile/cynthia.clifford) [Tableau](https://public.tableau.com/app/profile/cynthia.clifford)     
 ### [<img src="images/linkedin_icon.png?raw=true"/>](https://www.linkedin.com/in/cynthia-a-clifford/) [LinkedIn](https://www.linkedin.com/in/cynthia-a-clifford/)
 ---
