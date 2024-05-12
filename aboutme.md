@@ -1,8 +1,8 @@
 ## About Me<br>
 Hi! 👋🏻 <br>
 I'm Cynthia Clifford.<br><br>
-I am an experienced Data Analyst working with sales and performance data for Impossible Foods in the CPG Industry.<br>
-Our mission is to bring plant-based meat to consumers to create a more sustainable food supply.<br>
+I am an experienced Data Analyst working with sales and performance data for Impossible Foods in the CPG Industry.
+Our mission is to bring plant-based meat to consumers to create a more sustainable food supply.
 I work with panel and POS data and am comfortable with IRI, NPD and Numerator. I love SQL.<br><br>
 I'm a former Mechanical Engineer and a former Math Educator. <br><br>
 I love numbers. <br>
