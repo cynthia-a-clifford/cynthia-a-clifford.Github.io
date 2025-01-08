@@ -5,7 +5,7 @@ I am an experienced Data Analyst working with energy and production data for CLE
 Our mission is to improve energy efficiency to create a more sustainable future.
 I previously worked as a Sales Analyst for Impossible Foods in the CPG Industry. I love SQL.<br><br>
 I'm a former Mechanical Engineer and a former Math Educator. <br><br>
-I love numbers. <br>
+I love numbers and SQL. <br>
 **My superpowers 💪 are analysis, statistics, and sleep!**<br><br>
 Feel free to connect and say hi! <br><br>
 - 📊 Starting out I wanted to do math.<br>
