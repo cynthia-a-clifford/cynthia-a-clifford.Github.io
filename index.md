@@ -27,7 +27,7 @@ I used data from the World Bank/IDA to practice and develop my **SQL** skills. I
 
 #### [Patient Profiles - a Healthcare Analysis using SQL](https://www.linkedin.com/pulse/patient-profiles-healthcare-analysis-cynthia-clifford)
 [<img src="images/Hospitals SQL Project.png?raw=true"/>](https://www.linkedin.com/pulse/patient-profiles-healthcare-analysis-cynthia-clifford)
-I using **SQL** to analyze healthcare data. I used some advanced SQL functions like CASE, joined tables, and used UNION and CONCAT. This was a challenging project for me but a very interesting one. The data set is massive and I've only scratched the surface. I'd love to go back later and mine for additional insights.
+I used **SQL** to analyze healthcare data. I used some advanced SQL functions like CASE, joined tables, and used UNION and CONCAT. This was a challenging project for me but a very interesting one. The data set is massive and I've only scratched the surface. I'd love to go back later and mine for additional insights.
 
 #### [NBA Data Project with Tableau](https://www.linkedin.com/pulse/nba-2021-22-what-year-cynthia-clifford/)
 [<img src="images/NBA Statistical Analysis.png?raw=true"/>](https://www.linkedin.com/pulse/nba-2021-22-what-year-cynthia-clifford/)
